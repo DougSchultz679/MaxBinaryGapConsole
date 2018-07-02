@@ -5,3 +5,10 @@ C:\Users\Douglas Schultz\Desktop\L2Code\C#\SandBox\Codility\BinaryGapFinder\Bina
 C:\Users\Douglas Schultz\Desktop\L2Code\C#\SandBox\Codility\BinaryGapFinder\BinaryGapFinder\BinaryGapFinder\obj\Debug\BinaryGapFinder.csproj.CoreCompileInputs.cache
 C:\Users\Douglas Schultz\Desktop\L2Code\C#\SandBox\Codility\BinaryGapFinder\BinaryGapFinder\BinaryGapFinder\obj\Debug\BinaryGapFinder.exe
 C:\Users\Douglas Schultz\Desktop\L2Code\C#\SandBox\Codility\BinaryGapFinder\BinaryGapFinder\BinaryGapFinder\obj\Debug\BinaryGapFinder.pdb
+C:\cygwin64\home\DWS\gitRepos\sb\Codility\BinaryGapFinder\BinaryGapFinder\BinaryGapFinder\obj\Debug\BinaryGapFinder.csprojResolveAssemblyReference.cache
+C:\cygwin64\home\DWS\gitRepos\sb\Codility\BinaryGapFinder\BinaryGapFinder\BinaryGapFinder\obj\Debug\BinaryGapFinder.csproj.CoreCompileInputs.cache
+C:\cygwin64\home\DWS\gitRepos\sb\Codility\BinaryGapFinder\BinaryGapFinder\BinaryGapFinder\obj\Debug\BinaryGapFinder.exe
+C:\cygwin64\home\DWS\gitRepos\sb\Codility\BinaryGapFinder\BinaryGapFinder\BinaryGapFinder\obj\Debug\BinaryGapFinder.pdb
+C:\cygwin64\home\DWS\gitRepos\sb\Codility\BinaryGapFinder\BinaryGapFinder\BinaryGapFinder\bin\Debug\BinaryGapFinder.exe.config
+C:\cygwin64\home\DWS\gitRepos\sb\Codility\BinaryGapFinder\BinaryGapFinder\BinaryGapFinder\bin\Debug\BinaryGapFinder.exe
+C:\cygwin64\home\DWS\gitRepos\sb\Codility\BinaryGapFinder\BinaryGapFinder\BinaryGapFinder\bin\Debug\BinaryGapFinder.pdb

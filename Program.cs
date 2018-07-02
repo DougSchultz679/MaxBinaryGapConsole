@@ -28,9 +28,10 @@ namespace BinaryGapFinder
         public static int Solution(int n)
         {
             string binNum = n.GetBin();
-            if (!Regex.IsMatch(binNum, "10+1")) return 0;
+            string RegexPattern = @"10+(?=1)";
+            if (!Regex.IsMatch(binNum, RegexPattern)) return 0;
 
-            var Matches = Regex.Matches(binNum, "10+1");
+            var Matches = Regex.Matches(binNum, RegexPattern);
 
             int MaxGap = 0;
 
@@ -46,7 +47,7 @@ namespace BinaryGapFinder
     {
         public static string GetBin(this int n)
         {
-            List<string> Result = nsew List<string>();
+            List<string> Result = new List<string>();
 
             for (int i = n; i >= 1; i /= 2)
             {
