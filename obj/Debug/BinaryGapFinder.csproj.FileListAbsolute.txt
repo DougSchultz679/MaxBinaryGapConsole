@@ -1,0 +1,7 @@
+C:\Users\Douglas Schultz\Desktop\L2Code\C#\SandBox\Codility\BinaryGapFinder\BinaryGapFinder\BinaryGapFinder\bin\Debug\BinaryGapFinder.exe.config
+C:\Users\Douglas Schultz\Desktop\L2Code\C#\SandBox\Codility\BinaryGapFinder\BinaryGapFinder\BinaryGapFinder\bin\Debug\BinaryGapFinder.exe
+C:\Users\Douglas Schultz\Desktop\L2Code\C#\SandBox\Codility\BinaryGapFinder\BinaryGapFinder\BinaryGapFinder\bin\Debug\BinaryGapFinder.pdb
+C:\Users\Douglas Schultz\Desktop\L2Code\C#\SandBox\Codility\BinaryGapFinder\BinaryGapFinder\BinaryGapFinder\obj\Debug\BinaryGapFinder.csprojResolveAssemblyReference.cache
+C:\Users\Douglas Schultz\Desktop\L2Code\C#\SandBox\Codility\BinaryGapFinder\BinaryGapFinder\BinaryGapFinder\obj\Debug\BinaryGapFinder.csproj.CoreCompileInputs.cache
+C:\Users\Douglas Schultz\Desktop\L2Code\C#\SandBox\Codility\BinaryGapFinder\BinaryGapFinder\BinaryGapFinder\obj\Debug\BinaryGapFinder.exe
+C:\Users\Douglas Schultz\Desktop\L2Code\C#\SandBox\Codility\BinaryGapFinder\BinaryGapFinder\BinaryGapFinder\obj\Debug\BinaryGapFinder.pdb
